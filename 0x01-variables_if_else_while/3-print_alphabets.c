@@ -3,7 +3,7 @@
 /**
 *main - print alphABET (upper and lower case)
 *Print a new line
-*return 0 as success
+*Return: Always 0 (success)
 */
 
 int main(void)
