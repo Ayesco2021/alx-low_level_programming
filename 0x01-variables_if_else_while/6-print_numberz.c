@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
-* main: print 0123456789 using putchar
-* Return: Always 0 (success)
+*main: print 0123456789 using putchar
+*Return: Always 0 (success)
 */
 
 int main(void)
