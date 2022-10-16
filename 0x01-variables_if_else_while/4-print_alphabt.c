@@ -3,8 +3,9 @@
 /**
 *main - print alphabet in lower case
 *exclude alphabets q and e
-*return 0 as success
+*Return: Always 0 (success)
 */
+
 int main(void)
 {
 	char alpha = 'a';
