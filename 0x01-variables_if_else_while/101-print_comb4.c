@@ -9,6 +9,7 @@ int main(void)
 
 {
 	int n, x, y;
+
 	for (n = 48; n < 58; n++)
 	{
 		for (x = 49; x < 58; x++)
