@@ -1,7 +1,8 @@
 #include "main.h"
 /**
-*main - print _putchar
-*return: 0 for success
+* main - print _putchar
+* Description: Main header file will be included
+* Return: 0
 */
 
 int main(void)
